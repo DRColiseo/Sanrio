@@ -1,0 +1,261 @@
+body{
+    margin-left: 15px;
+}
+
+.contenedorPaginas{
+    width: 100%;
+    height: auto;
+}
+.espacioSeparcion{
+    margin-right:50px;
+    margin-bottom: 20px;
+    font-size: 10px;
+    font-weight: bold;
+    float: right;
+}
+.ordenNavegacion{
+    margin-right:15px;
+    margin-bottom: 20px;
+    font-size: 10px;
+    font-weight: bold;
+    float: right;
+}
+
+.cantidadEspacio{
+    width: 80%;
+}
+
+.espacioPara3texty1img{
+    width: 100%;
+    height: auto;
+}
+
+.contenedorPaginas3{
+    clear: right;
+    width: 100%;
+    height: auto;
+}
+
+.contenedorPaginas2{
+    clear: right;
+    width: 100%;
+    height: auto;
+    clear: left;
+
+}
+
+.contenedorPaginas3{
+    clear: right;
+    width: 100%;
+    height: auto;
+}
+
+.ordenimg{
+    float: right;
+    width: 500px;
+    height: 500px;
+
+}
+
+.ordenTexto1{
+    width: 15%;
+    clear: right;
+    margin-left: 15px;
+    float: right;
+    margin-bottom: 100px;
+
+}
+
+.ordenTexto{
+    width: 15%;
+    margin-bottom: 100px;
+    float: right;
+
+}
+
+.ordenTexto2{
+    clear: right;
+}
+
+.espacio2{
+    float: left;
+}
+
+hr{
+    height: 1px;
+    background-color: black;
+
+}
+.normal{
+    height:0px;
+    background-color: black;
+
+}
+
+.imganenPrimerosPJ{
+    width: 350px;
+    height: 375px;
+}
+
+.imganenPrimerosPJ:hover{
+    
+    cursor:pointer;
+    box-shadow: rgba(0, 0, 0, 0.24) 5px 14px 24px;
+}
+
+.flotarimg{
+    width: 350px;
+    height: 375px;
+    margin-right: 20px;
+    float: left;
+    clear: left;
+}
+.flotarimg:hover{
+    
+    cursor:pointer;
+    box-shadow: rgba(0, 0, 0, 0.24) 5px 14px 24px;
+}
+
+.flotar1{
+    margin-left: 20px;
+    float: left;
+    clear: left;
+}
+.flotar
+{
+    margin-left: 295px;
+    float: left;
+    margin-bottom: 30px;
+
+}
+
+.divisionUltimo{
+    margin-right: 200px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    clear: right;
+    float: right;
+}
+
+.floatimg2{
+    width: 475px;
+    height: 500px;
+    margin-right: 20px;
+    float: left;
+    clear: left;
+}
+
+.floatimg2:hover{
+    
+    cursor:pointer;
+    box-shadow: rgba(0, 0, 0, 0.24) 5px 14px 24px;
+}
+
+.imgSegundosPJ{
+    width: 475px;
+    height: 500px;
+}
+
+.imgSegundosPJ:hover{
+        cursor:pointer;
+        box-shadow: rgba(0, 0, 0, 0.24) 5px 14px 24px;
+
+}
+
+.flotarSegundoTexto
+{
+    margin-bottom: 30px;
+    margin-left: 400px;
+    float: left;
+}
+
+
+.ordenUltimo{
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    clear: right;
+    float: right;
+    bottom: 220px;
+
+}
+
+.piefoto{
+    width: 150px;
+    height: 150px;
+    margin-left: 40px;
+  }
+  .textopie{
+    width: 50%;
+    height: 275px;
+  }
+
+
+  .p-3{
+    text-align: justify;
+    margin-right: 10px;
+    padding-bottom: 30px;
+    margin-bottom: 1px;
+  }
+
+  .texto-4{
+    width: 20%;
+    float: right;
+    text-align: none;
+    margin-right: 100px;
+  }
+
+.container {
+    position: relative;
+    width:100%;
+    height: max-content;
+    min-width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+.red-4 {
+    margin-top: 25px;
+    height: 250px;
+    width: 50%;
+  }
+
+.no{
+    color: rgb(46, 46, 46);
+    text-decoration: none;
+}
+
+img{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+.derecha{
+    margin-left: 60px;
+  }
+
+.no:hover{
+    color: rgb(74, 72, 72);
+  }
+
+  header nav {
+    float: right;
+    text-align: center;
+    margin-right: 5em;
+    margin-top: 0;
+  }
+  header nav a {
+    display: inline-block;
+    margin: 0 10px;
+    margin-bottom: 5px;
+    color:blue;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+    padding-top: 1em;
+  }
+  a:hover{
+    transform: scale(1.2);
+    color: #fbbbb9;
+  }

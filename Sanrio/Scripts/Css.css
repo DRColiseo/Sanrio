@@ -1,0 +1,215 @@
+header nav {
+  float: right;
+  text-align: center;
+  margin-right: 5em;
+  margin-top: 0;
+}
+header nav a {
+  display: inline-block;
+  margin: 0 10px;
+  color:blue;
+}
+body{
+  margin: 0px 0px 0px 0px;
+}
+h1{
+  font-size:350%;
+  margin-top: 0px;
+  padding-top: 417px;
+  margin-bottom: 175px;
+  margin-left: 5px;
+}
+hr{
+  height: 1px;
+  color: black;
+  background-color: black;
+}
+h2{
+  margin-bottom: 450px;
+  margin-left: 10px;
+}
+p{
+  text-align: justify;
+  margin-right: 10px;
+  padding-bottom: 30px;
+  margin-bottom: 1px;
+}
+a{
+  text-decoration: none;
+  color: black;
+  padding-top: 1em;
+}
+a:hover{
+  transform: scale(1.2);
+  color: #fbbbb9;
+}
+img{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+footer {
+  background-color: white;
+  text-align: center;
+  margin-bottom: 0px;
+}
+footer.footer-2{
+  background-color: white;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+h3{
+  margin-left: 60px;
+  margin-top: 15px;
+}
+h4{
+  margin-left: 20px;
+}
+img.piedepag{
+  width: 100%;
+  height: 94px;
+  box-shadow: none;
+}
+.arriba{
+  margin-top: 35px;
+  bottom: 15px;
+  position: relative;
+}
+.no:hover{
+  color: rgb(74, 72, 72);
+}
+.container {
+  position: relative;
+  width:100%;
+  height: max-content;
+  min-width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+}
+.red {
+  margin-top: 50px;
+  height: 500px;
+  width: 50%;
+}
+.blue { 
+  height: 500px;
+  margin-top: 0px;
+  width: 50%;
+}
+.red-2 {
+  margin-top: 25px;
+  height: 300px;
+  width: 50%;
+}
+.blue-2 { 
+  height: 300px;
+  margin-top: 0px;
+  width: 50%;
+}
+.blue-3 { 
+  height: 300px;
+  margin-top: 0px;
+  width: 50%;
+}
+.red-3 {
+  margin-top: 0px;
+  height: 300px;
+  width: 50%;
+}
+.red-4 {
+  margin-top: 25px;
+  height: 250px;
+  width: 50%;
+}
+.img-1{
+  margin-top: 50px;
+  width: 740px;
+  height: 350px;
+}
+.img-2{
+  margin-top: 20px;
+  width: 370px;
+  height: 290px;
+}
+.space{
+  margin-top: 0px;
+}
+.p-2{
+  text-align: justify;
+  margin-right: 10px;
+  padding-bottom: 30px;
+}
+.p-3{
+  text-align: justify;
+  margin-right: 10px;
+  padding-bottom: 30px;
+  margin-bottom: 1px;
+}
+.texto{
+  width: 47%;
+  display: inline-block;
+}
+.texto-2{
+  width: 100%;
+}
+.grande{
+  font-size: 300%;
+  font-family: 'Times New Roman', Times, serif;
+  padding-bottom: 0px;
+  margin-top: 10px;
+}
+.nomargen{
+  margin-top: 0px;
+  margin-left: 5px;
+}
+.nomargen{
+  margin-top: 0px;
+  margin-left: 5px;
+}
+.especial{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border-bottom: 0px;
+}
+.gris{
+  color: rgba(128, 128, 128, 0.348);
+  background-color: rgba(128, 128, 128, 0.348);
+  height: 0.2px;
+}
+.fotos{
+  width: 100%;
+}
+.foto{
+  margin: 0px;
+  width: 24%;
+  display: inline-block;
+}
+.porciento{
+  display: inline-block;
+  width: 280px;
+  height: 350px;
+  margin-left: 60px;
+}
+.piefoto{
+  width: 150px;
+  height: 150px;
+  margin-left: 40px;
+}
+.textopie{
+  width: 50%;
+  height: 275px;
+}
+.texto-4{
+  width: 20%;
+  float: right;
+  text-align: none;
+  margin-right: 100px;
+}
+.derecha{
+  margin-left: 60px;
+}
+h2#margen{
+  margin-top: 50px;
+  margin-bottom: 40px;
+}

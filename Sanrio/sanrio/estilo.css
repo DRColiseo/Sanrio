@@ -1,0 +1,215 @@
+header nav {
+   right: 0px;
+   position: absolute;
+   text-align: center;
+   margin-right: 5em;
+   margin-top: 0;
+ }
+ header nav a {
+   display: inline-block;
+   margin: 0 10px;
+   color:blue;
+ }
+ 
+.container{
+    max-width: auto;
+}
+
+p[class|="par"]{
+    border: 3px solid #000000;
+}
+p.par1{
+    position: absolute;
+    border: 1px solid #fbbbb9;
+    top: 20px;
+    font-size: 10px;
+    right: 15px;
+    width: 400px;
+    height: 200px;
+    text-decoration: none;
+ }
+ p.par2{
+    position: absolute;
+   
+    top: 220px;
+    font-size: 10px;
+    right: 15px;
+    width: 400px;
+    height: 100px;
+    text-decoration: none;
+ }
+ p.par3{
+    position: absolute;
+    
+    top: 270px;
+    font-size: 10px;
+    left: 15px;
+    width: 250px;
+    height: 50px;
+    bottom: 0px;
+    text-decoration: none;
+ }
+ p.par4{
+    position: absolute;
+   border:1px solid #fbbbb9;
+   background-color: #f5f5dc;
+    top: 330px;
+    font-size: 10px;
+   
+    width: 1315px;
+    height: 500px;
+    text-decoration: none;
+ }
+ p.par4-5{
+    position: absolute;
+    
+    top: 850px;
+    font-size: 10px;
+    left: 15px;
+    width: 600px;
+    height: 15px;
+    text-decoration: none;
+ }
+ p.par5{
+    position: absolute;
+    background-color:#fbbbb9 ;
+    top: 900px;
+    font-size: 10px;
+    left: 0px;
+    width: 1347px;
+    height: 100px;
+    text-decoration: none;
+ }
+ p.par6{
+    position: absolute;
+   
+    top: 1090px;
+    font-size: 10px;
+    left: 15px;
+    width: 200px;
+    height: 50px;
+    text-decoration: none;
+ }
+ p.foto1{
+    position: absolute;
+    border: 1px solid #fbbbb9;
+    background-color: #f5f5cd;
+    top: 1150px;
+    font-size: 10px;
+    left: 15px;
+    width: 430px;
+    height: 430px;
+    text-decoration: none;
+ }
+ p.par7{
+    position: absolute;
+    background-color: #fbbbb9;
+    top: 1600px;
+    font-size: 10px;
+    left: 15px;
+    width: 200px;
+    height: 15px;
+    text-decoration: none;
+ }
+ p.foto2{
+    position: absolute;
+    border: 1px solid #fbbbb9;
+    background-color: #f5f5cd;
+    top: 1150px;
+    font-size: 10px;
+    left: 458px;
+    width: 430px;
+    height: 430px;
+    text-decoration: none;
+ }
+ p.par8{
+    position: absolute;
+   background-color: #fbbbb9;
+    top: 1600px;
+    font-size: 10px;
+    left: 458px;
+    width: 200px;
+    height: 15px;
+    text-decoration: none;
+ }
+ p.foto3{
+    position: absolute;
+    border: 1px solid #fbbbb9;
+    background-color: #f5f5cd;
+    top: 1150px;
+    font-size: 10px;
+    right: 15px;
+    width: 430px;
+    height: 430px;
+    text-decoration: none;
+ }
+ p.par9{
+    position: absolute;
+    background-color: #fbbbb9;
+    top: 1600px;
+    font-size: 10px;
+    right: 244px;
+    width: 200px;
+    height: 15px;
+    text-decoration: none;
+ }
+ p.par10{
+    position: absolute;
+    top: 1730px;
+    font-size: 10px;
+    right: 244px;
+    width: 200px;
+    height: 300px;
+    text-decoration: none;
+ }
+ p.par11{
+    position: absolute;
+    top: 1730px;
+    font-size: 10px;
+    right: 15px;
+    width: 200px;
+    height: 300px;
+    text-decoration: none;
+ }
+ p.fotofadin{
+    position: absolute;
+    top: 750px;
+    font-size: 10px;
+    left: 35px;
+    width: 10px;
+    height: 10px;
+    text-decoration: none;
+ }
+ p.linea{
+    position: absolute;
+    left: 0px;
+    top: 1020px;
+    width: 1347px;
+    height: 0px;
+    text-decoration: none;
+    background-color: #000000;
+ }
+ p.linea1{
+    position: absolute;
+    border: 0.5px solid #fbbbb9;
+    left: 0px;
+    top: 1700px;
+    width: 1347px;
+    height: 0px;
+    text-decoration: none;
+    background-color: #000000;
+ }
+
+ .piefoto{
+   width: 2px;
+   height: 2px;
+   margin-left: 40px;
+ }
+img{
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+ }
+
+ a{
+   text-decoration: none;
+}
+
